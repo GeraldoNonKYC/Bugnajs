@@ -1,0 +1,28 @@
+{
+  "name": "bugnajs",
+  "version": "2.0.3",
+  "description": "Simple Bugna library for interacting with Bugnad & Bugnawalletd gRPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraldoNonKYC/Bugnajs.git"
+  },
+  "keywords": [
+    "bugna",
+    "bugnajs",
+    "cryptocurrency"
+  ],
+  "author": "KaffinPX",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/GeraldoNonKYC/Bugnajs/issues"
+  },
+  "homepage": "https://github.com/GeraldoNonKYC/Bugnajs#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  }
+}
